@@ -5,7 +5,11 @@ NewsMag is a modern, responsive React application that displays the latest news 
 ## 📸 Demo
 
 ![Capture1](https://github.com/user-attachments/assets/790c5e9b-c737-434e-9065-dc9ef3678d6c)
+
+
 ![Capture2](https://github.com/user-attachments/assets/411fc3ba-2140-4397-8216-3e9b13fb21f4)
+
+
 ![Capture3](https://github.com/user-attachments/assets/7a4ca4f8-c0db-4819-9570-bede50c09374)
 )
 
